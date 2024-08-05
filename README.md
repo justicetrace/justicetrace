@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @justicetrace, a student currently learning code.
 - 👀 I’m interested in Software Development, Photography, and music!
-- 🌱 I’m currently learning React.js
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on anything that's somewhat to my understanding!
 - 📫 How to reach me: justicerivera13@outlook.com
 - 😄 Pronouns: He/Him
