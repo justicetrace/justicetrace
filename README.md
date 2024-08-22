@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **justicerivera13@outlook.com**
 
-- ⚡ Fun fact **I have a passion for street photography and travel.**
+- ⚡ Fun fact **I love to travel.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
